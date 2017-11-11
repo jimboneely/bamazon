@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Record Store Amazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimboneely/bamazon.git"
+  },
+  "author": "James G Neely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimboneely/bamazon/issues"
+  },
+  "homepage": "https://github.com/jimboneely/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
